@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "name": "Kasaragod",
+    "locations": [
+      {"id": 101, "name": "Manjeshwaram"},
+      {"id": 102, "name": "Kasaragod"},
+      {"id": 103, "name": "Udma"},
+      {"id": 104, "name": "Kanhangad"},
+      {"id": 105, "name": "Trikaripur"}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kannur",
+    "locations": [
+      {"id": 201, "name": "Payyannur"},
+      {"id": 202, "name": "Kalliasseri"},
+      {"id": 203, "name": "Taliparamba"},
+      {"id": 204, "name": "Irikkur"},
+      {"id": 205, "name": "Azhikode"},
+      {"id": 206, "name": "Kannur"},
+      {"id": 207, "name": "Dharmadam"},
+      {"id": 208, "name": "Thalassery"},
+      {"id": 209, "name": "Kuthuparamba"},
+      {"id": 210, "name": "Mattannur"},
+      {"id": 211, "name": "Peravoor"}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Wayanad",
+    "locations": [
+      {"id": 301, "name": "Mananthavady"},
+      {"id": 302, "name": "Sulthan Bathery"},
+      {"id": 303, "name": "Kalpetta"}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kozhikode",
+    "locations": [
+      {"id": 401, "name": "Vadakara"},
+      {"id": 402, "name": "Kuttiadi"},
+      {"id": 403, "name": "Nadapuram"},
+      {"id": 404, "name": "Quilandy"},
+      {"id": 405, "name": "Perambra"},
+      {"id": 406, "name": "Balusseri"},
+      {"id": 407, "name": "Elathur"},
+      {"id": 408, "name": "Kozhikode North"},
+      {"id": 409, "name": "Kozhikode South"},
+      {"id": 410, "name": "Beypore"},
+      {"id": 411, "name": "Kunnamangalam"},
+      {"id": 412, "name": "Koduvally"},
+      {"id": 413, "name": "Thiruvambady"}
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Malappuram",
+    "locations": [
+      {"id": 501, "name": "Kondotty"},
+      {"id": 502, "name": "Eranad"},
+      {"id": 503, "name": "Nilambur"},
+      {"id": 504, "name": "Wandoor"},
+      {"id": 505, "name": "Manjeri"},
+      {"id": 506, "name": "Perinthalmanna"},
+      {"id": 507, "name": "Mankada"},
+      {"id": 508, "name": "Malappuram"},
+      {"id": 509, "name": "Vengara"},
+      {"id": 510, "name": "Vallikunnu"},
+      {"id": 511, "name": "Tirurangadi"},
+      {"id": 512, "name": "Tanur"},
+      {"id": 513, "name": "Tirur"},
+      {"id": 514, "name": "Kottakkal"},
+      {"id": 515, "name": "Thavanur"},
+      {"id": 516, "name": "Ponnani"}
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Palakkad",
+    "locations": [
+      {"id": 601, "name": "Thrithala"},
+      {"id": 602, "name": "Pattambi"},
+      {"id": 603, "name": "Shornur"},
+      {"id": 604, "name": "Ottapalam"},
+      {"id": 605, "name": "Kongad"},
+      {"id": 606, "name": "Mannarkkad"},
+      {"id": 607, "name": "Malampuzha"},
+      {"id": 608, "name": "Palakkad"},
+      {"id": 609, "name": "Tarur"},
+      {"id": 610, "name": "Chittur"},
+      {"id": 611, "name": "Nenmara"},
+      {"id": 612, "name": "Alathur"}
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Thrissur",
+    "locations": [
+      {"id": 701, "name": "Chelakkara"},
+      {"id": 702, "name": "Kunnamkulam"},
+      {"id": 703, "name": "Guruvayur"},
+      {"id": 704, "name": "Manalur"},
+      {"id": 705, "name": "Wadakkanchery"},
+      {"id": 706, "name": "Ollur"},
+      {"id": 707, "name": "Thrissur"},
+      {"id": 708, "name": "Nattika"},
+      {"id": 709, "name": "Kaipamangalam"},
+      {"id": 710, "name": "Irinjalakuda"},
+      {"id": 711, "name": "Puthukkad"},
+      {"id": 712, "name": "Chalakudy"},
+      {"id": 713, "name": "Kodungallur"}
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Eranakulam",
+    "locations": [
+      {"id": 801, "name": "Perumbavoor"},
+      {"id": 802, "name": "Angamaly"},
+      {"id": 803, "name": "Aluva"},
+      {"id": 804, "name": "Kalamassery"},
+      {"id": 805, "name": "Paravur"},
+      {"id": 806, "name": "Vypen"},
+      {"id": 807, "name": "Kochi"},
+      {"id": 808, "name": "Thrippunithura"},
+      {"id": 809, "name": "Ernakulam"},
+      {"id": 810, "name": "Thrikkakara"},
+      {"id": 811, "name": "Kunnathunad"},
+      {"id": 812, "name": "Piravom"},
+      {"id": 813, "name": "Muvattupuzha"},
+      {"id": 814, "name": "Kothamangalam"}
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Idukki",
+    "locations": [
+      {"id": 901, "name": "Devikulam"},
+      {"id": 902, "name": "Udumbanchola"},
+      {"id": 903, "name": "Thodupuzha"},
+      {"id": 904, "name": "Idukki"},
+      {"id": 905, "name": "Peerumade"}
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Kottayam",
+    "locations": [
+      {"id": 1001, "name": "Pala"},
+      {"id": 1002, "name": "Kaduthuruthy"},
+      {"id": 1003, "name": "Vaikom"},
+      {"id": 1004, "name": "Ettumanoor"},
+      {"id": 1005, "name": "Kottayam"},
+      {"id": 1006, "name": "Puthuppally"},
+      {"id": 1007, "name": "Changanassery"},
+      {"id": 1008, "name": "Kanjirappally"},
+      {"id": 1009, "name": "Poonjar"}
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Alappuzha",
+    "locations": [
+      {"id": 1101, "name": "Aroor"},
+      {"id": 1102, "name": "Cherthala"},
+      {"id": 1103, "name": "Alappuzha"},
+      {"id": 1104, "name": "Ambalappuzha"},
+      {"id": 1105, "name": "Kuttanad"},
+      {"id": 1106, "name": "Haripad"},
+      {"id": 1107, "name": "Kayamkulam"},
+      {"id": 1108, "name": "Mavelikara"},
+      {"id": 1109, "name": "Chengannur"}
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Pathanamthitta",
+    "locations": [
+      {"id": 1201, "name": "Thiruvalla"},
+      {"id": 1202, "name": "Ranni"},
+      {"id": 1203, "name": "Aranmula"},
+      {"id": 1204, "name": "Konni"},
+      {"id": 1205, "name": "Adoor"}
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Kollam",
+    "locations": [
+      {"id": 1301, "name": "Karunagappally"},
+      {"id": 1302, "name": "Chavara"},
+      {"id": 1303, "name": "Kunnathur"},
+      {"id": 1304, "name": "Kottarakkara"},
+      {"id": 1305, "name": "Pathanapuram"},
+      {"id": 1306, "name": "Punalur"},
+      {"id": 1307, "name": "Chadayamangalam"},
+      {"id": 1308, "name": "Kundara"},
+      {"id": 1309, "name": "Kollam"},
+      {"id": 1310, "name": "Eravipuram"},
+      {"id": 1311, "name": "Chathannoor"}
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Trivandram",
+    "locations": [
+      {"id": 1401, "name": "Varkala"},
+      {"id": 1402, "name": "Attingal"},
+      {"id": 1403, "name": "Chirayinkeezhu"},
+      {"id": 1404, "name": "Nedumangad"},
+      {"id": 1405, "name": "Vamanapuram"},
+      {"id": 1406, "name": "Kazhakootam"},
+      {"id": 1407, "name": "Vattiyoorkavu"},
+      {"id": 1408, "name": "Thiruvananthapuram"},
+      {"id": 1409, "name": "Nemom"},
+      {"id": 1410, "name": "Aruvikkara"},
+      {"id": 1411, "name": "Parassala"},
+      {"id": 1412, "name": "Kattakkada"},
+      {"id": 1413, "name": "Kovalam"},
+      {"id": 1414, "name": "Neyyattinkara"}
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Karnataka",
+    "locations": [
+      {"id": 1501, "name": "Beltangadi"},
+      {"id": 1502, "name": "Mudabidre"},
+      {"id": 1503, "name": "Mangalore"},
+      {"id": 1504, "name": "Kadaba"},
+      {"id": 1505, "name": "Bantavala"},
+      {"id": 1506, "name": "Putturu"},
+      {"id": 1507, "name": "Sulya"},
+      {"id": 1508, "name": "Madikeri"},
+      {"id": 1509, "name": "Virajpette"},
+      {"id": 1510, "name": "Sumovarapette"},
+      {"id": 1511, "name": "Ponnampette"},
+      {"id": 1512, "name": "Kushalnagar"}
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Tamilnadu",
+    "locations": [
+      {"id": 1601, "name": "Kotagiri"},
+      {"id": 1602, "name": "Coonur"},
+      {"id": 1603, "name": "Udhagamandalam"},
+      {"id": 1604, "name": "Kundah"},
+      {"id": 1605, "name": "Gudalur"},
+      {"id": 1606, "name": "Pandalur"}
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Dweep",
+    "locations": [
+      {"id": 1701, "name": "Agatti"},
+      {"id": 1702, "name": "Amini"},
+      {"id": 1703, "name": "Andrott"},
+      {"id": 1704, "name": "Bitra"},
+      {"id": 1705, "name": "Chetlat"},
+      {"id": 1706, "name": "Kadmat"},
+      {"id": 1707, "name": "Kalpeni"},
+      {"id": 1708, "name": "Kavaratti"},
+      {"id": 1709, "name": "Kiltan"},
+      {"id": 1710, "name": "Bangaram"},
+      {"id": 1711, "name": "Byramgore Reef"},
+      {"id": 1712, "name": "Cherbaniani Reef"},
+      {"id": 1713, "name": "Minicoy"},
+      {"id": 1714, "name": "Suheli Par"},
+      {"id": 1715, "name": "Viringili"}
+    ]
+  }
+]
